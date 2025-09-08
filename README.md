@@ -49,8 +49,7 @@ The dashboard allows dynamic filtering by **Year** and **Bank**, and visualizes 
 ---
 
 ## 📸 Preview
-![Dashboard Overview](screenshots/overview.png)
-
+![Dashboard Overview](Dashboard%20Preview.png)
 ---
 
 ## 🔑 Key Learnings
