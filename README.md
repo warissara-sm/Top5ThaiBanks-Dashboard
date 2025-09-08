@@ -6,7 +6,7 @@ The dashboard allows dynamic filtering by **Year** and **Bank**, and visualizes 
 ---
 
 ## 📊 Dataset
-- **Source:** Compiled from Thai banks’ annual reports and summarized into [top5THbanking.csv](top5THbanking.csv)  
+- **Source:** Compiled from Thai banks’ annual reports and summarized into [top5THbanking.csv](data/top5THbanking.csv)
 - **Period:** 2020–2024  
 - **Scope:** Top 5 Thai banks by total assets  
 - **Key Fields:** Total Asset, Deposit, Loan, Net Profit, Revenue, Expense, Net Interest Income, Non-Interest Income, CAR, NIM, NPL, CIR  
