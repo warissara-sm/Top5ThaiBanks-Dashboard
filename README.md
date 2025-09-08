@@ -6,55 +6,27 @@ The dashboard allows dynamic filtering by **Year** and **Bank**, and visualizes 
 ---
 
 ## 📊 Dataset
-- **Source:** Compiled from Thai banks’ annual reports and summarized into `top5THbanking.csv` :contentReference[oaicite:1]{index=1}  
+- **Source:** Compiled from Thai banks’ annual reports and summarized into [top5THbanking.csv](top5THbanking.csv)  
 - **Period:** 2020–2024  
 - **Scope:** Top 5 Thai banks by total assets  
-- **Key Fields:** Total Asset, Total Deposit, Total Loan, Net Profit, Revenue, Expense, Net Interest Income, Non-Interest Income, CAR, NIM, NPL, CIR  
+- **Key Fields:** Total Asset, Deposit, Loan, Net Profit, Revenue, Expense, Net Interest Income, Non-Interest Income, CAR, NIM, NPL, CIR  
 
 ---
 
-## 🚀 Dashboard Features
-- **KPI Snapshot:**  
-  - Total Assets  
-  - Deposits & Loans  
-  - Net Profit  
-  - CAR (%) – Capital Adequacy Ratio  
-  - NIM (%) – Net Interest Margin  
-  - NPL (%) – Non-Performing Loans  
-  - CIR (%) – Cost-to-Income Ratio  
-
-- **Trend Analysis:**  
-  - Deposits vs Loans  
-  - Expense vs Revenue  
-  - Net Interest vs Non-Interest Income  
-  - Cost-to-Income Ratio (CIR)  
-
-- **Scatter Plot:**  
-  - Relationship between NIM and NPL (by Year)  
-
-- **Dynamic Filters:**  
-  - Select by Year (2020–2024)  
-  - Select by Bank (BAY, BBL, KBANK, KTB, SCB)  
-
-- **Themes & Branding:**  
-  - Applied bank-specific logos and color themes for professional presentation  
-
----
-
-## 📂 Files
-- `top5THbanking.csv` – Clean dataset used for dashboard  
-- `ALL5.pdf` – Exported dashboard preview (multi-page)  
-- `Top5Banks.pbix` – Power BI source file *(not included here, available upon request)*  
+## ⚙️ Dashboard Features
+- Interactive filters by **Year** and **Bank**  
+- KPIs: Total Asset, Total Deposit, Total Loan, Net Profit  
+- Financial Ratios: CAR, NIM, NPL, CIR  
+- Charts: Deposit vs Loan trend, Expense & Revenue, Net Interest vs Non-Interest Income  
 
 ---
 
 ## 📸 Preview
 ![Dashboard Overview](Dashboard%20Preview.png)
+
 ---
 
-## 🔑 Key Learnings
-- Cleaning and transforming raw financial datasets using **Excel & Power Query**  
-- Designing interactive dashboards with **Power BI** and DAX measures  
-- Benchmarking bank performance using **financial ratios and indicators**  
-- Presenting insights for **performance monitoring and competitive analysis**
-
+## 📂 Files
+- `top5THbanking.csv` → Cleaned dataset  
+- `ALL5.pdf` → Exported dashboard report  
+- `Dashboard Preview.png` → Dashboard screenshot for quick view  
